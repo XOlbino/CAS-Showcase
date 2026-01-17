@@ -67,7 +67,7 @@ CAS includes “client-facing” workflow accelerators designed for high-trust d
 
 ---
 
-## Screenshots & Demo (Placeholder)
+## Screenshots & Demo
 
 - **Screenshots**:
   - Contract-Driven Implementation.png
